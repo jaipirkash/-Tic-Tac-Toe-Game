@@ -30,6 +30,7 @@ This game is based on a tutorial by shardhakhapra on YouTube.
 ## Author:
 
 [JaiPirkash Malhi](https://github.com/jaipirkash)
+
 you can play this game by clicking this url(my-tic-tac-toe-game-using.netlify.app)
 
 ## License:
